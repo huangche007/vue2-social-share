@@ -1,7 +1,7 @@
 {
   "name": "vue2-social-share",
   "description": "a social share plug for VueJs",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "huangche",
   "main": "dist/vue-social-share.js",
   "private": false,
