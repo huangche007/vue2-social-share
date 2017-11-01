@@ -1,0 +1,26 @@
+.share-to .share-icon{
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+.share-to{
+    width: 1000px;
+    margin: 10 auto;
+}
+.share-to .share-qq-k{
+    background: url("../img/share-qq-k.png") no-repeat center;
+}
+.share-to .share-qq-friend{
+    background: url("../img/share-qq-friend.png") no-repeat center;
+}
+ .share-to .share-weibo{
+    background: url("../img/share-weibo.png") no-repeat center;
+}
+ .share-to .share-wechat{
+    background: url("../img/share-wechat.png") no-repeat center;
+}
+.share-wechat-circle{
+    background: url("../img/share-wehcat-circle.png") no-repeat center;
+}
